@@ -1,0 +1,137 @@
+[
+  {
+    "units_sold": 499,
+    "orders": 242,
+    "product_id": "prod_00154",
+    "name": "Switchable Hybrid Focus Group",
+    "category_name": "Skinner-Romero",
+    "revenue": 296480.85,
+    "current_stock": 210
+  },
+  {
+    "units_sold": 531,
+    "orders": 251,
+    "product_id": "prod_00253",
+    "name": "Profound High-Level Adapter",
+    "category_name": "Phillips Inc",
+    "revenue": 289586.16,
+    "current_stock": 197
+  },
+  {
+    "units_sold": 508,
+    "orders": 253,
+    "product_id": "prod_01652",
+    "name": "Intuitive Optimizing Success",
+    "category_name": "Smith Ltd",
+    "revenue": 285165.8,
+    "current_stock": 303
+  },
+  {
+    "units_sold": 519,
+    "orders": 252,
+    "product_id": "prod_00967",
+    "name": "Streamlined 24Hour Complexity",
+    "category_name": "Wright-Leblanc",
+    "revenue": 283109.31,
+    "current_stock": 205
+  },
+  {
+    "units_sold": 503,
+    "orders": 242,
+    "product_id": "prod_02908",
+    "name": "Distributed Optimizing Framework",
+    "category_name": "Patterson, Smith and Jones",
+    "revenue": 281207.18,
+    "current_stock": 131
+  },
+  {
+    "units_sold": 500,
+    "orders": 246,
+    "product_id": "prod_02419",
+    "name": "Digitized Maximized Software",
+    "category_name": "Anderson, Walls and Duncan",
+    "revenue": 280990.0,
+    "current_stock": 261
+  },
+  {
+    "units_sold": 521,
+    "orders": 257,
+    "product_id": "prod_03278",
+    "name": "Adaptive Grid-Enabled Standardization",
+    "category_name": "Spence PLC",
+    "revenue": 280011.45,
+    "current_stock": 0
+  },
+  {
+    "units_sold": 499,
+    "orders": 246,
+    "product_id": "prod_03061",
+    "name": "Secured Leadingedge Methodology",
+    "category_name": "Bush Inc",
+    "revenue": 279659.56,
+    "current_stock": 344
+  },
+  {
+    "units_sold": 484,
+    "orders": 253,
+    "product_id": "prod_03324",
+    "name": "Team-Oriented Hybrid Artificial Intelligence",
+    "category_name": "Phillips Inc",
+    "revenue": 279045.36,
+    "current_stock": 1
+  },
+  {
+    "units_sold": 535,
+    "orders": 264,
+    "product_id": "prod_03499",
+    "name": "Phased 4Thgeneration Groupware",
+    "category_name": "Spence PLC",
+    "revenue": 277413.55,
+    "current_stock": 358
+  },
+  {
+    "units_sold": 478,
+    "orders": 242,
+    "product_id": "prod_02303",
+    "name": "Phased Bottom-Line Hardware",
+    "category_name": "Ellis, Baker and Wright",
+    "revenue": 271747.78,
+    "current_stock": 220
+  },
+  {
+    "units_sold": 510,
+    "orders": 256,
+    "product_id": "prod_04136",
+    "name": "Decentralized Context-Sensitive Collaboration",
+    "category_name": "Rodriguez, Figueroa and Sanchez",
+    "revenue": 271677.0,
+    "current_stock": 0
+  },
+  {
+    "units_sold": 468,
+    "orders": 234,
+    "product_id": "prod_04772",
+    "name": "Quality-Focused Radical Installation",
+    "category_name": "Anderson, Walls and Duncan",
+    "revenue": 270775.44,
+    "current_stock": 198
+  },
+  {
+    "units_sold": 470,
+    "orders": 241,
+    "product_id": "prod_04673",
+    "name": "Cross-Platform Solution-Oriented Flexibility",
+    "category_name": "Hancock Inc",
+    "revenue": 270160.7,
+    "current_stock": 85
+  },
+  {
+    "units_sold": 482,
+    "orders": 243,
+    "product_id": "prod_04940",
+    "name": "Ergonomic Incremental Function",
+    "category_name": "Mitchell-Kim",
+    "revenue": 268893.34,
+    "current_stock": 181
+  }
+]

@@ -1,0 +1,51 @@
+# HBase schema creation commands
+# Run with:  hbase shell src/hbase/hbase_schema.txt
+#
+# ---------------------------------------------------------------------------
+# TABLE 1 : user_sessions
+# ---------------------------------------------------------------------------
+# Row key:  user_id # reverse_timestamp
+#
+#   reverse_timestamp = (9999999999999 - epoch_millis), zero padded to 13 chars
+#
+# WHY REVERSE: HBase stores rows in lexicographic order of the row key, and a
+# scan walks forward. Reversing the timestamp puts the MOST RECENT session
+# first, so "the last 10 sessions for this user" is a scan that stops after 10
+# rows instead of reading the user's whole history and sorting it.
+#
+# WHY user_id FIRST: every session for one user sits in one contiguous block,
+# so the query is a short range scan on one region, not a full table scan.
+#
+# Column families - two, because they are read at different times:
+#   s  session summary   small, always read      (start, end, duration, device,
+#                                                 geo, referrer, conversion)
+#   p  page detail       large, read on drill-in (page view count, products
+#                                                 viewed, cart contents)
+# Splitting them means the common query reads only the 's' files.
+
+create 'user_sessions', \
+  {NAME => 's', VERSIONS => 1, COMPRESSION => 'NONE', BLOOMFILTER => 'ROW'}, \
+  {NAME => 'p', VERSIONS => 1, COMPRESSION => 'NONE', BLOOMFILTER => 'ROW'}
+
+# ---------------------------------------------------------------------------
+# TABLE 2 : product_daily
+# ---------------------------------------------------------------------------
+# Row key:  product_id # yyyy-mm-dd
+#
+# Forward date here, NOT reversed: the questions asked of this table are
+# "how did this product perform over March" - a forward range scan between two
+# dates. Product first keeps one product's whole history contiguous.
+#
+# Column family:
+#   m  metrics    views, cart adds, purchases, units, revenue - one sparse
+#                 column per metric. A product with no sales that day simply
+#                 has no cells, and HBase stores nothing. That sparseness is
+#                 the whole reason this is a wide-column store and not a table
+#                 with 5 nullable numeric columns.
+
+create 'product_daily', \
+  {NAME => 'm', VERSIONS => 1, COMPRESSION => 'NONE', BLOOMFILTER => 'ROW'}
+
+list
+describe 'user_sessions'
+describe 'product_daily'

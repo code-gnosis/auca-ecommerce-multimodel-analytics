@@ -1,0 +1,170 @@
+[
+  {
+    "hour_of_day": 0,
+    "sessions": 83215,
+    "conversions": 16828,
+    "conversion_rate_pct": "20.22",
+    "avg_duration_s": 1816.0
+  },
+  {
+    "hour_of_day": 1,
+    "sessions": 83523,
+    "conversions": 17007,
+    "conversion_rate_pct": "20.36",
+    "avg_duration_s": 1811.0
+  },
+  {
+    "hour_of_day": 2,
+    "sessions": 83646,
+    "conversions": 16889,
+    "conversion_rate_pct": "20.19",
+    "avg_duration_s": 1818.0
+  },
+  {
+    "hour_of_day": 3,
+    "sessions": 83434,
+    "conversions": 16870,
+    "conversion_rate_pct": "20.22",
+    "avg_duration_s": 1818.0
+  },
+  {
+    "hour_of_day": 4,
+    "sessions": 82978,
+    "conversions": 16979,
+    "conversion_rate_pct": "20.46",
+    "avg_duration_s": 1817.0
+  },
+  {
+    "hour_of_day": 5,
+    "sessions": 82939,
+    "conversions": 16820,
+    "conversion_rate_pct": "20.28",
+    "avg_duration_s": 1814.0
+  },
+  {
+    "hour_of_day": 6,
+    "sessions": 83719,
+    "conversions": 17014,
+    "conversion_rate_pct": "20.32",
+    "avg_duration_s": 1813.0
+  },
+  {
+    "hour_of_day": 7,
+    "sessions": 83450,
+    "conversions": 16855,
+    "conversion_rate_pct": "20.20",
+    "avg_duration_s": 1813.0
+  },
+  {
+    "hour_of_day": 8,
+    "sessions": 82884,
+    "conversions": 16596,
+    "conversion_rate_pct": "20.02",
+    "avg_duration_s": 1814.0
+  },
+  {
+    "hour_of_day": 9,
+    "sessions": 83593,
+    "conversions": 17107,
+    "conversion_rate_pct": "20.46",
+    "avg_duration_s": 1813.0
+  },
+  {
+    "hour_of_day": 10,
+    "sessions": 82991,
+    "conversions": 16866,
+    "conversion_rate_pct": "20.32",
+    "avg_duration_s": 1816.0
+  },
+  {
+    "hour_of_day": 11,
+    "sessions": 83696,
+    "conversions": 16852,
+    "conversion_rate_pct": "20.13",
+    "avg_duration_s": 1813.0
+  },
+  {
+    "hour_of_day": 12,
+    "sessions": 83322,
+    "conversions": 16792,
+    "conversion_rate_pct": "20.15",
+    "avg_duration_s": 1810.0
+  },
+  {
+    "hour_of_day": 13,
+    "sessions": 83499,
+    "conversions": 16912,
+    "conversion_rate_pct": "20.25",
+    "avg_duration_s": 1807.0
+  },
+  {
+    "hour_of_day": 14,
+    "sessions": 82853,
+    "conversions": 16792,
+    "conversion_rate_pct": "20.27",
+    "avg_duration_s": 1815.0
+  },
+  {
+    "hour_of_day": 15,
+    "sessions": 83133,
+    "conversions": 16900,
+    "conversion_rate_pct": "20.33",
+    "avg_duration_s": 1814.0
+  },
+  {
+    "hour_of_day": 16,
+    "sessions": 82790,
+    "conversions": 16566,
+    "conversion_rate_pct": "20.01",
+    "avg_duration_s": 1813.0
+  },
+  {
+    "hour_of_day": 17,
+    "sessions": 83875,
+    "conversions": 17106,
+    "conversion_rate_pct": "20.39",
+    "avg_duration_s": 1810.0
+  },
+  {
+    "hour_of_day": 18,
+    "sessions": 83508,
+    "conversions": 17129,
+    "conversion_rate_pct": "20.51",
+    "avg_duration_s": 1815.0
+  },
+  {
+    "hour_of_day": 19,
+    "sessions": 83936,
+    "conversions": 17127,
+    "conversion_rate_pct": "20.40",
+    "avg_duration_s": 1815.0
+  },
+  {
+    "hour_of_day": 20,
+    "sessions": 83466,
+    "conversions": 16995,
+    "conversion_rate_pct": "20.36",
+    "avg_duration_s": 1811.0
+  },
+  {
+    "hour_of_day": 21,
+    "sessions": 82980,
+    "conversions": 16993,
+    "conversion_rate_pct": "20.48",
+    "avg_duration_s": 1813.0
+  },
+  {
+    "hour_of_day": 22,
+    "sessions": 83513,
+    "conversions": 16935,
+    "conversion_rate_pct": "20.28",
+    "avg_duration_s": 1819.0
+  },
+  {
+    "hour_of_day": 23,
+    "sessions": 83053,
+    "conversions": 16956,
+    "conversion_rate_pct": "20.42",
+    "avg_duration_s": 1814.0
+  }
+]

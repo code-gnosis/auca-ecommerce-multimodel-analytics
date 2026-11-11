@@ -1,0 +1,16 @@
+{
+  "categories": 25,
+  "subcategories": 109,
+  "products": 5000,
+  "products_duplicates_dropped": 0,
+  "users": 10000,
+  "users_duplicates_dropped": 0,
+  "transactions": 500000,
+  "transactions_duplicates_dropped": 0,
+  "transactions_without_session": 243389,
+  "transactions_total_mismatch": 0,
+  "transaction_items": 954134,
+  "sessions": 1999996,
+  "sessions_duplicates_dropped": 4,
+  "page_views": 19999594
+}

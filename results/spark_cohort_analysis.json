@@ -1,0 +1,332 @@
+[
+  {
+    "cohort_month": "2026-02",
+    "months_since": 5,
+    "active_users": 666,
+    "orders": 2761,
+    "revenue": 2498718.68,
+    "cohort_users": 765,
+    "retention_pct": 87.06,
+    "revenue_per_user": 3751.83
+  },
+  {
+    "cohort_month": "2026-02",
+    "months_since": 6,
+    "active_users": 765,
+    "orders": 11389,
+    "revenue": 10309113.59,
+    "cohort_users": 765,
+    "retention_pct": 100.0,
+    "revenue_per_user": 13475.97
+  },
+  {
+    "cohort_month": "2026-02",
+    "months_since": 7,
+    "active_users": 765,
+    "orders": 11160,
+    "revenue": 10138310.7,
+    "cohort_users": 765,
+    "retention_pct": 100.0,
+    "revenue_per_user": 13252.69
+  },
+  {
+    "cohort_month": "2026-02",
+    "months_since": 8,
+    "active_users": 764,
+    "orders": 7928,
+    "revenue": 7234572.23,
+    "cohort_users": 765,
+    "retention_pct": 99.87,
+    "revenue_per_user": 9469.34
+  },
+  {
+    "cohort_month": "2026-03",
+    "months_since": 4,
+    "active_users": 907,
+    "orders": 4455,
+    "revenue": 4020610.4,
+    "cohort_users": 1730,
+    "retention_pct": 52.43,
+    "revenue_per_user": 4432.87
+  },
+  {
+    "cohort_month": "2026-03",
+    "months_since": 5,
+    "active_users": 1730,
+    "orders": 23853,
+    "revenue": 21853040.0,
+    "cohort_users": 1730,
+    "retention_pct": 100.0,
+    "revenue_per_user": 12631.82
+  },
+  {
+    "cohort_month": "2026-03",
+    "months_since": 6,
+    "active_users": 1730,
+    "orders": 24966,
+    "revenue": 22779302.4,
+    "cohort_users": 1730,
+    "retention_pct": 100.0,
+    "revenue_per_user": 13167.23
+  },
+  {
+    "cohort_month": "2026-03",
+    "months_since": 7,
+    "active_users": 1730,
+    "orders": 21055,
+    "revenue": 19197193.81,
+    "cohort_users": 1730,
+    "retention_pct": 100.0,
+    "revenue_per_user": 11096.64
+  },
+  {
+    "cohort_month": "2026-03",
+    "months_since": 8,
+    "active_users": 487,
+    "orders": 1672,
+    "revenue": 1544785.9,
+    "cohort_users": 1730,
+    "retention_pct": 28.15,
+    "revenue_per_user": 3172.04
+  },
+  {
+    "cohort_month": "2026-04",
+    "months_since": 3,
+    "active_users": 800,
+    "orders": 3743,
+    "revenue": 3401826.73,
+    "cohort_users": 1675,
+    "retention_pct": 47.76,
+    "revenue_per_user": 4252.28
+  },
+  {
+    "cohort_month": "2026-04",
+    "months_since": 4,
+    "active_users": 1675,
+    "orders": 22688,
+    "revenue": 20699549.52,
+    "cohort_users": 1675,
+    "retention_pct": 100.0,
+    "revenue_per_user": 12357.94
+  },
+  {
+    "cohort_month": "2026-04",
+    "months_since": 5,
+    "active_users": 1675,
+    "orders": 24812,
+    "revenue": 22523456.11,
+    "cohort_users": 1675,
+    "retention_pct": 100.0,
+    "revenue_per_user": 13446.84
+  },
+  {
+    "cohort_month": "2026-04",
+    "months_since": 6,
+    "active_users": 1675,
+    "orders": 21039,
+    "revenue": 19205105.86,
+    "cohort_users": 1675,
+    "retention_pct": 100.0,
+    "revenue_per_user": 11465.73
+  },
+  {
+    "cohort_month": "2026-04",
+    "months_since": 7,
+    "active_users": 541,
+    "orders": 1752,
+    "revenue": 1596047.61,
+    "cohort_users": 1675,
+    "retention_pct": 32.3,
+    "revenue_per_user": 2950.18
+  },
+  {
+    "cohort_month": "2026-05",
+    "months_since": 2,
+    "active_users": 840,
+    "orders": 4295,
+    "revenue": 3879244.46,
+    "cohort_users": 1658,
+    "retention_pct": 50.66,
+    "revenue_per_user": 4618.15
+  },
+  {
+    "cohort_month": "2026-05",
+    "months_since": 3,
+    "active_users": 1658,
+    "orders": 23061,
+    "revenue": 20984783.32,
+    "cohort_users": 1658,
+    "retention_pct": 100.0,
+    "revenue_per_user": 12656.68
+  },
+  {
+    "cohort_month": "2026-05",
+    "months_since": 4,
+    "active_users": 1658,
+    "orders": 23971,
+    "revenue": 21895605.17,
+    "cohort_users": 1658,
+    "retention_pct": 100.0,
+    "revenue_per_user": 13206.03
+  },
+  {
+    "cohort_month": "2026-05",
+    "months_since": 5,
+    "active_users": 1657,
+    "orders": 19864,
+    "revenue": 17925002.39,
+    "cohort_users": 1658,
+    "retention_pct": 99.94,
+    "revenue_per_user": 10817.74
+  },
+  {
+    "cohort_month": "2026-05",
+    "months_since": 6,
+    "active_users": 450,
+    "orders": 1551,
+    "revenue": 1430223.41,
+    "cohort_users": 1658,
+    "retention_pct": 27.14,
+    "revenue_per_user": 3178.27
+  },
+  {
+    "cohort_month": "2026-06",
+    "months_since": 1,
+    "active_users": 849,
+    "orders": 3875,
+    "revenue": 3512979.54,
+    "cohort_users": 1688,
+    "retention_pct": 50.3,
+    "revenue_per_user": 4137.79
+  },
+  {
+    "cohort_month": "2026-06",
+    "months_since": 2,
+    "active_users": 1688,
+    "orders": 23395,
+    "revenue": 21257043.68,
+    "cohort_users": 1688,
+    "retention_pct": 100.0,
+    "revenue_per_user": 12593.04
+  },
+  {
+    "cohort_month": "2026-06",
+    "months_since": 3,
+    "active_users": 1688,
+    "orders": 24542,
+    "revenue": 22206458.69,
+    "cohort_users": 1688,
+    "retention_pct": 100.0,
+    "revenue_per_user": 13155.49
+  },
+  {
+    "cohort_month": "2026-06",
+    "months_since": 4,
+    "active_users": 1688,
+    "orders": 20665,
+    "revenue": 18837280.54,
+    "cohort_users": 1688,
+    "retention_pct": 100.0,
+    "revenue_per_user": 11159.53
+  },
+  {
+    "cohort_month": "2026-06",
+    "months_since": 5,
+    "active_users": 498,
+    "orders": 1562,
+    "revenue": 1441343.32,
+    "cohort_users": 1688,
+    "retention_pct": 29.5,
+    "revenue_per_user": 2894.26
+  },
+  {
+    "cohort_month": "2026-07",
+    "months_since": 0,
+    "active_users": 918,
+    "orders": 4633,
+    "revenue": 4215449.86,
+    "cohort_users": 1757,
+    "retention_pct": 52.25,
+    "revenue_per_user": 4591.99
+  },
+  {
+    "cohort_month": "2026-07",
+    "months_since": 1,
+    "active_users": 1757,
+    "orders": 24217,
+    "revenue": 21955459.68,
+    "cohort_users": 1757,
+    "retention_pct": 100.0,
+    "revenue_per_user": 12495.99
+  },
+  {
+    "cohort_month": "2026-07",
+    "months_since": 2,
+    "active_users": 1757,
+    "orders": 25735,
+    "revenue": 23369474.29,
+    "cohort_users": 1757,
+    "retention_pct": 100.0,
+    "revenue_per_user": 13300.78
+  },
+  {
+    "cohort_month": "2026-07",
+    "months_since": 3,
+    "active_users": 1757,
+    "orders": 21081,
+    "revenue": 19135298.86,
+    "cohort_users": 1757,
+    "retention_pct": 100.0,
+    "revenue_per_user": 10890.89
+  },
+  {
+    "cohort_month": "2026-07",
+    "months_since": 4,
+    "active_users": 506,
+    "orders": 1677,
+    "revenue": 1538221.23,
+    "cohort_users": 1757,
+    "retention_pct": 28.8,
+    "revenue_per_user": 3039.96
+  },
+  {
+    "cohort_month": "2026-08",
+    "months_since": 0,
+    "active_users": 727,
+    "orders": 8800,
+    "revenue": 8011283.58,
+    "cohort_users": 727,
+    "retention_pct": 100.0,
+    "revenue_per_user": 11019.65
+  },
+  {
+    "cohort_month": "2026-08",
+    "months_since": 1,
+    "active_users": 727,
+    "orders": 10329,
+    "revenue": 9327534.61,
+    "cohort_users": 727,
+    "retention_pct": 100.0,
+    "revenue_per_user": 12830.17
+  },
+  {
+    "cohort_month": "2026-08",
+    "months_since": 2,
+    "active_users": 727,
+    "orders": 10859,
+    "revenue": 9888934.58,
+    "cohort_users": 727,
+    "retention_pct": 100.0,
+    "revenue_per_user": 13602.39
+  },
+  {
+    "cohort_month": "2026-08",
+    "months_since": 3,
+    "active_users": 506,
+    "orders": 1682,
+    "revenue": 1570990.47,
+    "cohort_users": 727,
+    "retention_pct": 69.6,
+    "revenue_per_user": 3104.72
+  }
+]

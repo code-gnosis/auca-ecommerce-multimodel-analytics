@@ -1,0 +1,13 @@
+# Generated data. 3.9 GB of JSON plus 853 MB of Parquet - regenerate with
+# src/dataset_generator.py rather than committing it.
+data
+data/
+*.jsonl
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

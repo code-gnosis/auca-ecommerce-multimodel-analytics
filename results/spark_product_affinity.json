@@ -1,0 +1,502 @@
+[
+  {
+    "product_a": "prod_04161",
+    "name_a": "Seamless Well-Modulated Support",
+    "product_b": "prod_04510",
+    "name_b": "Automated Eco-Centric Groupware",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.1111,
+    "lift": 1060.548
+  },
+  {
+    "product_a": "prod_02021",
+    "name_a": "Ergonomic Value-Added Budgetary Management",
+    "product_b": "prod_03841",
+    "name_b": "Polarized Tangible Approach",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.125,
+    "lift": 980.06
+  },
+  {
+    "product_a": "prod_00791",
+    "name_a": "Implemented High-Level Website",
+    "product_b": "prod_01829",
+    "name_b": "Switchable Systematic Circuit",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.069,
+    "lift": 976.79
+  },
+  {
+    "product_a": "prod_03425",
+    "name_a": "Virtual Encompassing Database",
+    "product_b": "prod_04734",
+    "name_b": "Object-Based Clear-Thinking Protocol",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0357,
+    "lift": 681.781
+  },
+  {
+    "product_a": "prod_02325",
+    "name_a": "Digitized Executive Firmware",
+    "product_b": "prod_04356",
+    "name_b": "Extended Reciprocal Frame",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0426,
+    "lift": 518.992
+  },
+  {
+    "product_a": "prod_02009",
+    "name_a": "Organized Bifurcated Matrices",
+    "product_b": "prod_02932",
+    "name_b": "Public-Key Real-Time Analyzer",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0833,
+    "lift": 415.783
+  },
+  {
+    "product_a": "prod_01440",
+    "name_a": "Stand-Alone Content-Based Paradigm",
+    "product_b": "prod_04811",
+    "name_b": "Versatile Intermediate Array",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0308,
+    "lift": 409.386
+  },
+  {
+    "product_a": "prod_01890",
+    "name_a": "Focused Explicit Protocol",
+    "product_b": "prod_03679",
+    "name_b": "Compatible Disintermediate Monitoring",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0182,
+    "lift": 380.145
+  },
+  {
+    "product_a": "prod_00563",
+    "name_a": "Multi-Layered Logistical Matrix",
+    "product_b": "prod_03970",
+    "name_b": "Assimilated Background Framework",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0571,
+    "lift": 374.471
+  },
+  {
+    "product_a": "prod_00236",
+    "name_a": "Self-Enabling Foreground Collaboration",
+    "product_b": "prod_02775",
+    "name_b": "Profound Reciprocal Superstructure",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0435,
+    "lift": 360.186
+  },
+  {
+    "product_a": "prod_02578",
+    "name_a": "Progressive Human-Resource Interface",
+    "product_b": "prod_04320",
+    "name_b": "Inverse 24/7 Data-Warehouse",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.1429,
+    "lift": 339.048
+  },
+  {
+    "product_a": "prod_02330",
+    "name_a": "Robust 5Thgeneration Capability",
+    "product_b": "prod_03467",
+    "name_b": "Operative Actuating Encryption",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0286,
+    "lift": 321.661
+  },
+  {
+    "product_a": "prod_00735",
+    "name_a": "Synergistic Demand-Driven Flexibility",
+    "product_b": "prod_01075",
+    "name_b": "Customizable Bandwidth-Monitored Model",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0253,
+    "lift": 317.589
+  },
+  {
+    "product_a": "prod_03768",
+    "name_a": "Focused Secondary Hub",
+    "product_b": "prod_04246",
+    "name_b": "Devolved Even-Keeled Leverage",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0084,
+    "lift": 308.767
+  },
+  {
+    "product_a": "prod_02783",
+    "name_a": "Proactive Intermediate Focus Group",
+    "product_b": "prod_02791",
+    "name_b": "Fundamental Exuding Pricing Structure",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0317,
+    "lift": 296.567
+  },
+  {
+    "product_a": "prod_03019",
+    "name_a": "Synchronized Homogeneous Analyzer",
+    "product_b": "prod_04897",
+    "name_b": "Persistent Homogeneous Approach",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0142,
+    "lift": 283.086
+  },
+  {
+    "product_a": "prod_00579",
+    "name_a": "Cross-Group Upward-Trending Workforce",
+    "product_b": "prod_04845",
+    "name_b": "Profound Scalable Instruction Set",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.023,
+    "lift": 280.375
+  },
+  {
+    "product_a": "prod_00011",
+    "name_a": "Enhanced Optimal Firmware",
+    "product_b": "prod_03226",
+    "name_b": "Advanced Intermediate Utilization",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.05,
+    "lift": 277.891
+  },
+  {
+    "product_a": "prod_00958",
+    "name_a": "Mandatory Neutral Pricing Structure",
+    "product_b": "prod_02277",
+    "name_b": "Operative Multi-Tasking Data-Warehouse",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.1176,
+    "lift": 269.036
+  },
+  {
+    "product_a": "prod_02290",
+    "name_a": "Extended Grid-Enabled Database",
+    "product_b": "prod_02622",
+    "name_b": "Synergized Disintermediate Algorithm",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0204,
+    "lift": 256.016
+  },
+  {
+    "product_a": "prod_00084",
+    "name_a": "Multi-Lateral Context-Sensitive Framework",
+    "product_b": "prod_00450",
+    "name_b": "Up-Sized Intangible Frame",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0357,
+    "lift": 252.919
+  },
+  {
+    "product_a": "prod_01185",
+    "name_a": "Extended Optimizing Protocol",
+    "product_b": "prod_01258",
+    "name_b": "Right-Sized Bi-Directional Software",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0286,
+    "lift": 250.895
+  },
+  {
+    "product_a": "prod_02045",
+    "name_a": "Open-Architected Dynamic Alliance",
+    "product_b": "prod_03840",
+    "name_b": "Optimized Impactful Software",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0091,
+    "lift": 250.609
+  },
+  {
+    "product_a": "prod_00887",
+    "name_a": "Synergistic Upward-Trending Project",
+    "product_b": "prod_02977",
+    "name_b": "Grass-Roots Solution-Oriented Throughput",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.022,
+    "lift": 235.362
+  },
+  {
+    "product_a": "prod_00738",
+    "name_a": "Triple-Buffered Secondary Focus Group",
+    "product_b": "prod_02074",
+    "name_b": "Future-Proofed Scalable Standardization",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.023,
+    "lift": 229.398
+  },
+  {
+    "product_a": "prod_02613",
+    "name_a": "Seamless Demand-Driven Strategy",
+    "product_b": "prod_04868",
+    "name_b": "Quality-Focused Optimal Algorithm",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0465,
+    "lift": 221.975
+  },
+  {
+    "product_a": "prod_00326",
+    "name_a": "Diverse Fresh-Thinking Strategy",
+    "product_b": "prod_01149",
+    "name_b": "Triple-Buffered Multi-Tasking Challenge",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0909,
+    "lift": 220.526
+  },
+  {
+    "product_a": "prod_01957",
+    "name_a": "Multi-Lateral Hybrid Implementation",
+    "product_b": "prod_02548",
+    "name_b": "Synergized Motivating Intranet",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0588,
+    "lift": 209.979
+  },
+  {
+    "product_a": "prod_03252",
+    "name_a": "Ergonomic Multi-Tasking Website",
+    "product_b": "prod_04579",
+    "name_b": "Quality-Focused Maximized Superstructure",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0299,
+    "lift": 208.039
+  },
+  {
+    "product_a": "prod_01046",
+    "name_a": "Multi-Layered Maximized Standardization",
+    "product_b": "prod_02872",
+    "name_b": "Innovative Analyzing Database",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.1111,
+    "lift": 197.511
+  },
+  {
+    "product_a": "prod_01966",
+    "name_a": "Operative Hybrid Synergy",
+    "product_b": "prod_02491",
+    "name_b": "Face-To-Face Explicit Extranet",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0571,
+    "lift": 191.523
+  },
+  {
+    "product_a": "prod_02023",
+    "name_a": "Public-Key Content-Based Info-Mediaries",
+    "product_b": "prod_04140",
+    "name_b": "Cross-Platform Background Hub",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0087,
+    "lift": 190.899
+  },
+  {
+    "product_a": "prod_02333",
+    "name_a": "Ameliorated Multi-State Migration",
+    "product_b": "prod_04641",
+    "name_b": "Switchable Contextually-Based Budgetary Management",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0317,
+    "lift": 188.36
+  },
+  {
+    "product_a": "prod_00191",
+    "name_a": "Assimilated Analyzing Matrices",
+    "product_b": "prod_02330",
+    "name_b": "Robust 5Thgeneration Capability",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0299,
+    "lift": 187.235
+  },
+  {
+    "product_a": "prod_00794",
+    "name_a": "Multi-Channeled Leadingedge Process Improvement",
+    "product_b": "prod_04833",
+    "name_b": "Grass-Roots Reciprocal Migration",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0208,
+    "lift": 186.678
+  },
+  {
+    "product_a": "prod_00361",
+    "name_a": "Assimilated Radical Leverage",
+    "product_b": "prod_01658",
+    "name_b": "Secured Reciprocal Hierarchy",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0476,
+    "lift": 181.808
+  },
+  {
+    "product_a": "prod_03653",
+    "name_a": "Team-Oriented Even-Keeled Moratorium",
+    "product_b": "prod_04516",
+    "name_b": "Inverse Demand-Driven Application",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0233,
+    "lift": 176.049
+  },
+  {
+    "product_a": "prod_01663",
+    "name_a": "Digitized Methodical Interface",
+    "product_b": "prod_01931",
+    "name_b": "Advanced Impactful Projection",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0426,
+    "lift": 172.997
+  },
+  {
+    "product_a": "prod_04177",
+    "name_a": "Multi-Lateral Empowering Firmware",
+    "product_b": "prod_04368",
+    "name_b": "Exclusive 24Hour Software",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0256,
+    "lift": 170.578
+  },
+  {
+    "product_a": "prod_02292",
+    "name_a": "Ameliorated Exuding Function",
+    "product_b": "prod_03684",
+    "name_b": "Down-Sized Systemic Focus Group",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0198,
+    "lift": 170.478
+  },
+  {
+    "product_a": "prod_01881",
+    "name_a": "Innovative Fresh-Thinking Parallelism",
+    "product_b": "prod_02120",
+    "name_b": "Operative Value-Added Groupware",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0124,
+    "lift": 165.28
+  },
+  {
+    "product_a": "prod_03773",
+    "name_a": "Ameliorated Transitional Knowledge User",
+    "product_b": "prod_04343",
+    "name_b": "Up-Sized 24Hour Software",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.069,
+    "lift": 164.568
+  },
+  {
+    "product_a": "prod_01860",
+    "name_a": "Multi-Layered Eco-Centric Neural-Net",
+    "product_b": "prod_03995",
+    "name_b": "Compatible Value-Added Time-Frame",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0155,
+    "lift": 162.077
+  },
+  {
+    "product_a": "prod_00673",
+    "name_a": "Innovative Fresh-Thinking Challenge",
+    "product_b": "prod_03249",
+    "name_b": "Intuitive Real-Time Monitoring",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0769,
+    "lift": 160.068
+  },
+  {
+    "product_a": "prod_00424",
+    "name_a": "Ameliorated Disintermediate Database",
+    "product_b": "prod_04162",
+    "name_b": "Secured Upward-Trending Artificial Intelligence",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0101,
+    "lift": 157.598
+  },
+  {
+    "product_a": "prod_00165",
+    "name_a": "Up-Sized Systematic Infrastructure",
+    "product_b": "prod_02199",
+    "name_b": "Secured Executive Hardware",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.019,
+    "lift": 154.874
+  },
+  {
+    "product_a": "prod_00569",
+    "name_a": "Synergized Well-Modulated Application",
+    "product_b": "prod_03835",
+    "name_b": "Upgradable Systemic Portal",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0159,
+    "lift": 154.874
+  },
+  {
+    "product_a": "prod_00006",
+    "name_a": "Persevering Grid-Enabled Function",
+    "product_b": "prod_01061",
+    "name_b": "Centralized Heuristic Project",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0192,
+    "lift": 148.133
+  },
+  {
+    "product_a": "prod_00909",
+    "name_a": "Multi-Lateral Hybrid Definition",
+    "product_b": "prod_01581",
+    "name_b": "Team-Oriented 4Thgeneration Task-Force",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0769,
+    "lift": 144.954
+  },
+  {
+    "product_a": "prod_02038",
+    "name_a": "Business-Focused Tertiary Framework",
+    "product_b": "prod_02605",
+    "name_b": "Self-Enabling User-Facing Migration",
+    "pair_count": 2,
+    "support": 5e-06,
+    "confidence_a_to_b": 0.0488,
+    "lift": 143.744
+  }
+]

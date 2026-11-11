@@ -1,0 +1,252 @@
+[
+  {
+    "units_sold": 68678,
+    "line_items": 34367,
+    "category_id": "cat_005",
+    "category_name": "Cameron-Parsons",
+    "revenue": 19015310.7,
+    "products_sold": 206,
+    "buyers": 9647,
+    "revenue_per_buyer": 1971.11
+  },
+  {
+    "units_sold": 73672,
+    "line_items": 36957,
+    "category_id": "cat_004",
+    "category_name": "Kelly-Santiago",
+    "revenue": 18567799.54,
+    "products_sold": 223,
+    "buyers": 9725,
+    "revenue_per_buyer": 1909.29
+  },
+  {
+    "units_sold": 74280,
+    "line_items": 37153,
+    "category_id": "cat_014",
+    "category_name": "Anderson, Walls and Duncan",
+    "revenue": 18348206.78,
+    "products_sold": 208,
+    "buyers": 9730,
+    "revenue_per_buyer": 1885.74
+  },
+  {
+    "units_sold": 65543,
+    "line_items": 32872,
+    "category_id": "cat_021",
+    "category_name": "Mitchell-Kim",
+    "revenue": 17519146.62,
+    "products_sold": 192,
+    "buyers": 9569,
+    "revenue_per_buyer": 1830.82
+  },
+  {
+    "units_sold": 69453,
+    "line_items": 34854,
+    "category_id": "cat_019",
+    "category_name": "Powell PLC",
+    "revenue": 17385989.74,
+    "products_sold": 193,
+    "buyers": 9648,
+    "revenue_per_buyer": 1802.03
+  },
+  {
+    "units_sold": 70909,
+    "line_items": 35573,
+    "category_id": "cat_018",
+    "category_name": "Phillips Inc",
+    "revenue": 17266357.67,
+    "products_sold": 201,
+    "buyers": 9672,
+    "revenue_per_buyer": 1785.19
+  },
+  {
+    "units_sold": 66308,
+    "line_items": 33174,
+    "category_id": "cat_010",
+    "category_name": "Burns-Rodriguez",
+    "revenue": 17209417.92,
+    "products_sold": 193,
+    "buyers": 9592,
+    "revenue_per_buyer": 1794.14
+  },
+  {
+    "units_sold": 68854,
+    "line_items": 34568,
+    "category_id": "cat_012",
+    "category_name": "Carney-Santos",
+    "revenue": 17150150.27,
+    "products_sold": 203,
+    "buyers": 9664,
+    "revenue_per_buyer": 1774.64
+  },
+  {
+    "units_sold": 62395,
+    "line_items": 31173,
+    "category_id": "cat_011",
+    "category_name": "Spence PLC",
+    "revenue": 16949975.55,
+    "products_sold": 183,
+    "buyers": 9510,
+    "revenue_per_buyer": 1782.33
+  },
+  {
+    "units_sold": 72274,
+    "line_items": 36340,
+    "category_id": "cat_017",
+    "category_name": "Hancock Inc",
+    "revenue": 16942476.43,
+    "products_sold": 214,
+    "buyers": 9709,
+    "revenue_per_buyer": 1745.03
+  },
+  {
+    "units_sold": 66404,
+    "line_items": 33200,
+    "category_id": "cat_003",
+    "category_name": "Bush Inc",
+    "revenue": 16852413.56,
+    "products_sold": 196,
+    "buyers": 9628,
+    "revenue_per_buyer": 1750.35
+  },
+  {
+    "units_sold": 64378,
+    "line_items": 32388,
+    "category_id": "cat_006",
+    "category_name": "Ellis, Baker and Wright",
+    "revenue": 16708321.6,
+    "products_sold": 195,
+    "buyers": 9552,
+    "revenue_per_buyer": 1749.2
+  },
+  {
+    "units_sold": 63789,
+    "line_items": 31818,
+    "category_id": "cat_024",
+    "category_name": "Patterson, Smith and Jones",
+    "revenue": 16571531.44,
+    "products_sold": 189,
+    "buyers": 9561,
+    "revenue_per_buyer": 1733.24
+  },
+  {
+    "units_sold": 70728,
+    "line_items": 35332,
+    "category_id": "cat_020",
+    "category_name": "Brewer, Bryant and Hickman",
+    "revenue": 16511974.16,
+    "products_sold": 202,
+    "buyers": 9704,
+    "revenue_per_buyer": 1701.56
+  },
+  {
+    "units_sold": 63623,
+    "line_items": 31892,
+    "category_id": "cat_015",
+    "category_name": "Owens-Daniel",
+    "revenue": 16109574.97,
+    "products_sold": 192,
+    "buyers": 9540,
+    "revenue_per_buyer": 1688.63
+  },
+  {
+    "units_sold": 64549,
+    "line_items": 32308,
+    "category_id": "cat_022",
+    "category_name": "Preston Ltd",
+    "revenue": 15981560.89,
+    "products_sold": 184,
+    "buyers": 9572,
+    "revenue_per_buyer": 1669.62
+  },
+  {
+    "units_sold": 61594,
+    "line_items": 30870,
+    "category_id": "cat_007",
+    "category_name": "Moore, Becker and Carlson",
+    "revenue": 15479675.2,
+    "products_sold": 174,
+    "buyers": 9506,
+    "revenue_per_buyer": 1628.41
+  },
+  {
+    "units_sold": 65083,
+    "line_items": 32496,
+    "category_id": "cat_001",
+    "category_name": "Baldwin Ltd",
+    "revenue": 15356684.91,
+    "products_sold": 199,
+    "buyers": 9605,
+    "revenue_per_buyer": 1598.82
+  },
+  {
+    "units_sold": 62890,
+    "line_items": 31483,
+    "category_id": "cat_009",
+    "category_name": "Skinner-Romero",
+    "revenue": 15326160.64,
+    "products_sold": 175,
+    "buyers": 9564,
+    "revenue_per_buyer": 1602.48
+  },
+  {
+    "units_sold": 63602,
+    "line_items": 31862,
+    "category_id": "cat_008",
+    "category_name": "Rodriguez-Graham",
+    "revenue": 15196879.95,
+    "products_sold": 188,
+    "buyers": 9518,
+    "revenue_per_buyer": 1596.65
+  },
+  {
+    "units_sold": 61709,
+    "line_items": 31066,
+    "category_id": "cat_002",
+    "category_name": "James LLC",
+    "revenue": 14899129.23,
+    "products_sold": 180,
+    "buyers": 9541,
+    "revenue_per_buyer": 1561.59
+  },
+  {
+    "units_sold": 61918,
+    "line_items": 30909,
+    "category_id": "cat_023",
+    "category_name": "King-Odonnell",
+    "revenue": 14774005.32,
+    "products_sold": 173,
+    "buyers": 9524,
+    "revenue_per_buyer": 1551.24
+  },
+  {
+    "units_sold": 58389,
+    "line_items": 29259,
+    "category_id": "cat_013",
+    "category_name": "Smith Ltd",
+    "revenue": 14773459.13,
+    "products_sold": 170,
+    "buyers": 9416,
+    "revenue_per_buyer": 1568.97
+  },
+  {
+    "units_sold": 54557,
+    "line_items": 27361,
+    "category_id": "cat_016",
+    "category_name": "Wright-Leblanc",
+    "revenue": 14516853.35,
+    "products_sold": 167,
+    "buyers": 9285,
+    "revenue_per_buyer": 1563.47
+  },
+  {
+    "units_sold": 54764,
+    "line_items": 27410,
+    "category_id": "cat_000",
+    "category_name": "Rodriguez, Figueroa and Sanchez",
+    "revenue": 14100595.97,
+    "products_sold": 166,
+    "buyers": 9372,
+    "revenue_per_buyer": 1504.55
+  }
+]

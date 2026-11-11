@@ -1,0 +1,9 @@
+{
+  "customers_scored": 10000,
+  "with_hbase_engagement": 9998,
+  "total_predicted_clv": 2552605658.46,
+  "total_actual_spend": 466576163.22,
+  "avg_clv": 255260.57,
+  "engaged_customers": 9712,
+  "at_risk_high_spend": 286
+}

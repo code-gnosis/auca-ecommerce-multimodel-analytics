@@ -1,0 +1,502 @@
+[
+  {
+    "product_a": "prod_02483",
+    "name_a": "Adaptive High-Level Time-Frame",
+    "product_b": "prod_02898",
+    "name_b": "Exclusive Demand-Driven Protocol",
+    "pair_count": 5,
+    "support": 1.1e-05,
+    "confidence_a_to_b": 0.0208,
+    "lift": 37.489
+  },
+  {
+    "product_a": "prod_00297",
+    "name_a": "Quality-Focused Explicit Graphic Interface",
+    "product_b": "prod_03662",
+    "name_b": "Secured Client-Driven Alliance",
+    "pair_count": 4,
+    "support": 9e-06,
+    "confidence_a_to_b": 0.019,
+    "lift": 33.836
+  },
+  {
+    "product_a": "prod_02665",
+    "name_a": "Down-Sized Dedicated Intranet",
+    "product_b": "prod_03541",
+    "name_b": "Visionary Upward-Trending Website",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0128,
+    "lift": 124.558
+  },
+  {
+    "product_a": "prod_00553",
+    "name_a": "Seamless Client-Driven Toolset",
+    "product_b": "prod_04177",
+    "name_b": "Multi-Lateral Empowering Firmware",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0128,
+    "lift": 71.86
+  },
+  {
+    "product_a": "prod_02430",
+    "name_a": "Fundamental Exuding Policy",
+    "product_b": "prod_02776",
+    "name_b": "Optional Actuating Local Area Network",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0349,
+    "lift": 69.937
+  },
+  {
+    "product_a": "prod_00720",
+    "name_a": "Multi-Layered 3Rdgeneration Graphical User Interface",
+    "product_b": "prod_02201",
+    "name_b": "Compatible Zero Tolerance Ability",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0303,
+    "lift": 60.478
+  },
+  {
+    "product_a": "prod_00618",
+    "name_a": "User-Centric Solution-Oriented Instruction Set",
+    "product_b": "prod_04485",
+    "name_b": "Adaptive Client-Driven Adapter",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0122,
+    "lift": 57.195
+  },
+  {
+    "product_a": "prod_00699",
+    "name_a": "Pre-Emptive Stable Firmware",
+    "product_b": "prod_02804",
+    "name_b": "Open-Architected 5Thgeneration Protocol",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0143,
+    "lift": 56.508
+  },
+  {
+    "product_a": "prod_04507",
+    "name_a": "Virtual Intermediate Methodology",
+    "product_b": "prod_04680",
+    "name_b": "Open-Architected National Info-Mediaries",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.027,
+    "lift": 56.24
+  },
+  {
+    "product_a": "prod_00941",
+    "name_a": "Public-Key Motivating System Engine",
+    "product_b": "prod_03433",
+    "name_b": "Ameliorated Human-Resource Orchestration",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0166,
+    "lift": 54.309
+  },
+  {
+    "product_a": "prod_02903",
+    "name_a": "Balanced Zero-Defect Protocol",
+    "product_b": "prod_04607",
+    "name_b": "Down-Sized 24/7 Hub",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0219,
+    "lift": 52.828
+  },
+  {
+    "product_a": "prod_00190",
+    "name_a": "Switchable Multi-State Framework",
+    "product_b": "prod_02305",
+    "name_b": "Multi-Layered Zero Tolerance Definition",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0261,
+    "lift": 47.924
+  },
+  {
+    "product_a": "prod_00014",
+    "name_a": "Optional 24Hour Model",
+    "product_b": "prod_04358",
+    "name_b": "Centralized Eco-Centric Array",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0254,
+    "lift": 47.501
+  },
+  {
+    "product_a": "prod_00479",
+    "name_a": "Right-Sized Hybrid Time-Frame",
+    "product_b": "prod_03094",
+    "name_b": "Fully-Configurable High-Level Circuit",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0138,
+    "lift": 47.422
+  },
+  {
+    "product_a": "prod_02601",
+    "name_a": "Persevering Explicit Budgetary Management",
+    "product_b": "prod_03443",
+    "name_b": "Business-Focused Object-Oriented Projection",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0183,
+    "lift": 46.426
+  },
+  {
+    "product_a": "prod_00071",
+    "name_a": "Seamless Static Implementation",
+    "product_b": "prod_01159",
+    "name_b": "Networked Mobile Leverage",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0129,
+    "lift": 46.338
+  },
+  {
+    "product_a": "prod_02436",
+    "name_a": "Profit-Focused Systemic Structure",
+    "product_b": "prod_03511",
+    "name_b": "Pre-Emptive Bi-Directional Flexibility",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.019,
+    "lift": 43.42
+  },
+  {
+    "product_a": "prod_02129",
+    "name_a": "Enterprise-Wide Dynamic Focus Group",
+    "product_b": "prod_03713",
+    "name_b": "Stand-Alone Static Secured Line",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0234,
+    "lift": 42.878
+  },
+  {
+    "product_a": "prod_01617",
+    "name_a": "Fundamental Cohesive Strategy",
+    "product_b": "prod_02574",
+    "name_b": "Self-Enabling Zero Administration Customer Loyalty",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0248,
+    "lift": 42.69
+  },
+  {
+    "product_a": "prod_03367",
+    "name_a": "Synchronized Dedicated Knowledge User",
+    "product_b": "prod_03666",
+    "name_b": "Customer-Focused Attitude-Oriented Task-Force",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0207,
+    "lift": 42.649
+  },
+  {
+    "product_a": "prod_02254",
+    "name_a": "Digitized Zero Administration Function",
+    "product_b": "prod_04070",
+    "name_b": "Polarized Static Productivity",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0216,
+    "lift": 41.381
+  },
+  {
+    "product_a": "prod_00847",
+    "name_a": "Total Executive Solution",
+    "product_b": "prod_04631",
+    "name_b": "Customizable Transitional Hub",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.014,
+    "lift": 40.573
+  },
+  {
+    "product_a": "prod_00760",
+    "name_a": "Re-Contextualized Logistical Circuit",
+    "product_b": "prod_00780",
+    "name_b": "Future-Proofed Regional Portal",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0208,
+    "lift": 39.944
+  },
+  {
+    "product_a": "prod_02049",
+    "name_a": "Multi-Layered 24/7 Capability",
+    "product_b": "prod_02645",
+    "name_b": "Optimized Multimedia Synergy",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0207,
+    "lift": 39.496
+  },
+  {
+    "product_a": "prod_02231",
+    "name_a": "User-Friendly Next Generation Portal",
+    "product_b": "prod_03500",
+    "name_b": "Decentralized Fault-Tolerant Encoding",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0208,
+    "lift": 38.596
+  },
+  {
+    "product_a": "prod_00397",
+    "name_a": "Polarized Fresh-Thinking Encryption",
+    "product_b": "prod_03414",
+    "name_b": "Up-Sized Even-Keeled Forecast",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0175,
+    "lift": 38.515
+  },
+  {
+    "product_a": "prod_02282",
+    "name_a": "Advanced Next Generation Toolset",
+    "product_b": "prod_04267",
+    "name_b": "Visionary Uniform Time-Frame",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0184,
+    "lift": 38.299
+  },
+  {
+    "product_a": "prod_02121",
+    "name_a": "Exclusive Mission-Critical Secured Line",
+    "product_b": "prod_03188",
+    "name_b": "Mandatory 6Thgeneration Flexibility",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0128,
+    "lift": 38.13
+  },
+  {
+    "product_a": "prod_01881",
+    "name_a": "Innovative Fresh-Thinking Parallelism",
+    "product_b": "prod_03351",
+    "name_b": "Vision-Oriented 4Thgeneration Middleware",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0186,
+    "lift": 38.053
+  },
+  {
+    "product_a": "prod_00581",
+    "name_a": "Devolved Secondary Service-Desk",
+    "product_b": "prod_00978",
+    "name_b": "Assimilated Mission-Critical Budgetary Management",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0192,
+    "lift": 37.864
+  },
+  {
+    "product_a": "prod_02687",
+    "name_a": "Phased 24Hour Graphic Interface",
+    "product_b": "prod_03197",
+    "name_b": "Enhanced Holistic Architecture",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0181,
+    "lift": 37.785
+  },
+  {
+    "product_a": "prod_02239",
+    "name_a": "Re-Contextualized Non-Volatile Analyzer",
+    "product_b": "prod_04455",
+    "name_b": "Automated Bandwidth-Monitored Access",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0203,
+    "lift": 37.239
+  },
+  {
+    "product_a": "prod_02824",
+    "name_a": "Inverse Reciprocal Encryption",
+    "product_b": "prod_04927",
+    "name_b": "Re-Engineered Fault-Tolerant Collaboration",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0159,
+    "lift": 36.875
+  },
+  {
+    "product_a": "prod_04201",
+    "name_a": "Decentralized 24/7 Neural-Net",
+    "product_b": "prod_04654",
+    "name_b": "Inverse Context-Sensitive Flexibility",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.012,
+    "lift": 35.361
+  },
+  {
+    "product_a": "prod_02312",
+    "name_a": "Re-Engineered Interactive Capacity",
+    "product_b": "prod_04137",
+    "name_b": "Organized Interactive Matrices",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0133,
+    "lift": 35.266
+  },
+  {
+    "product_a": "prod_03026",
+    "name_a": "Enterprise-Wide 4Thgeneration Product",
+    "product_b": "prod_03117",
+    "name_b": "Future-Proofed Incremental Solution",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0175,
+    "lift": 35.173
+  },
+  {
+    "product_a": "prod_00463",
+    "name_a": "Customer-Focused Bandwidth-Monitored Moderator",
+    "product_b": "prod_00558",
+    "name_b": "Grass-Roots Solution-Oriented Capacity",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0128,
+    "lift": 35.032
+  },
+  {
+    "product_a": "prod_01051",
+    "name_a": "Programmable Static Database",
+    "product_b": "prod_03831",
+    "name_b": "Proactive Static Migration",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0194,
+    "lift": 34.686
+  },
+  {
+    "product_a": "prod_00566",
+    "name_a": "Object-Based Didactic Interface",
+    "product_b": "prod_03027",
+    "name_b": "Assimilated Upward-Trending Knowledgebase",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0176,
+    "lift": 34.59
+  },
+  {
+    "product_a": "prod_00827",
+    "name_a": "Optional Optimal Matrices",
+    "product_b": "prod_02814",
+    "name_b": "Versatile Didactic Instruction Set",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.018,
+    "lift": 33.852
+  },
+  {
+    "product_a": "prod_00198",
+    "name_a": "Focused Incremental Graphical User Interface",
+    "product_b": "prod_01323",
+    "name_b": "Grass-Roots Zero-Defect Approach",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0159,
+    "lift": 33.668
+  },
+  {
+    "product_a": "prod_00107",
+    "name_a": "Balanced Well-Modulated System Engine",
+    "product_b": "prod_04756",
+    "name_b": "Cloned Heuristic Utilization",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0128,
+    "lift": 33.364
+  },
+  {
+    "product_a": "prod_00981",
+    "name_a": "Fundamental Dynamic Forecast",
+    "product_b": "prod_02723",
+    "name_b": "Multi-Tiered Tertiary Forecast",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0145,
+    "lift": 33.142
+  },
+  {
+    "product_a": "prod_01967",
+    "name_a": "Reverse-Engineered Asynchronous Installation",
+    "product_b": "prod_02335",
+    "name_b": "Configurable Upward-Trending Solution",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0174,
+    "lift": 32.727
+  },
+  {
+    "product_a": "prod_01418",
+    "name_a": "Expanded Multi-State Product",
+    "product_b": "prod_04419",
+    "name_b": "Integrated Didactic Structure",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0168,
+    "lift": 32.56
+  },
+  {
+    "product_a": "prod_00751",
+    "name_a": "Realigned Contextually-Based Frame",
+    "product_b": "prod_02497",
+    "name_b": "Upgradable Full-Range System Engine",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0163,
+    "lift": 32.54
+  },
+  {
+    "product_a": "prod_01844",
+    "name_a": "Multi-Tiered Solution-Oriented Toolset",
+    "product_b": "prod_04382",
+    "name_b": "Vision-Oriented Well-Modulated Toolset",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0131,
+    "lift": 32.497
+  },
+  {
+    "product_a": "prod_01392",
+    "name_a": "Balanced Methodical Superstructure",
+    "product_b": "prod_03187",
+    "name_b": "Integrated Empowering Knowledge User",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.014,
+    "lift": 32.415
+  },
+  {
+    "product_a": "prod_04154",
+    "name_a": "Team-Oriented Web-Enabled Emulation",
+    "product_b": "prod_04513",
+    "name_b": "Re-Contextualized Interactive Pricing Structure",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.016,
+    "lift": 32.164
+  },
+  {
+    "product_a": "prod_04269",
+    "name_a": "Vision-Oriented Next Generation Protocol",
+    "product_b": "prod_04610",
+    "name_b": "Synergized Local Methodology",
+    "pair_count": 3,
+    "support": 7e-06,
+    "confidence_a_to_b": 0.0167,
+    "lift": 31.816
+  }
+]

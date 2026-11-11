@@ -1,0 +1,227 @@
+[
+  {
+    "category_id": "cat_005",
+    "category_name": "Cameron-Parsons",
+    "orders": 33467,
+    "units": 68678,
+    "revenue": 19015310.7,
+    "avg_price": 276.48,
+    "pct_of_revenue": 4.64
+  },
+  {
+    "category_id": "cat_004",
+    "category_name": "Kelly-Santiago",
+    "orders": 35941,
+    "units": 73672,
+    "revenue": 18567799.54,
+    "avg_price": 251.74,
+    "pct_of_revenue": 4.53
+  },
+  {
+    "category_id": "cat_014",
+    "category_name": "Anderson, Walls and Duncan",
+    "orders": 36143,
+    "units": 74280,
+    "revenue": 18348206.78,
+    "avg_price": 246.86,
+    "pct_of_revenue": 4.48
+  },
+  {
+    "category_id": "cat_021",
+    "category_name": "Mitchell-Kim",
+    "orders": 32018,
+    "units": 65543,
+    "revenue": 17519146.62,
+    "avg_price": 267.7,
+    "pct_of_revenue": 4.28
+  },
+  {
+    "category_id": "cat_019",
+    "category_name": "Powell PLC",
+    "orders": 33938,
+    "units": 69453,
+    "revenue": 17385989.74,
+    "avg_price": 249.67,
+    "pct_of_revenue": 4.25
+  },
+  {
+    "category_id": "cat_018",
+    "category_name": "Phillips Inc",
+    "orders": 34614,
+    "units": 70909,
+    "revenue": 17266357.67,
+    "avg_price": 243.54,
+    "pct_of_revenue": 4.22
+  },
+  {
+    "category_id": "cat_010",
+    "category_name": "Burns-Rodriguez",
+    "orders": 32318,
+    "units": 66308,
+    "revenue": 17209417.92,
+    "avg_price": 260.69,
+    "pct_of_revenue": 4.2
+  },
+  {
+    "category_id": "cat_012",
+    "category_name": "Carney-Santos",
+    "orders": 33649,
+    "units": 68854,
+    "revenue": 17150150.27,
+    "avg_price": 249.2,
+    "pct_of_revenue": 4.19
+  },
+  {
+    "category_id": "cat_011",
+    "category_name": "Spence PLC",
+    "orders": 30463,
+    "units": 62395,
+    "revenue": 16949975.55,
+    "avg_price": 272.33,
+    "pct_of_revenue": 4.14
+  },
+  {
+    "category_id": "cat_017",
+    "category_name": "Hancock Inc",
+    "orders": 35321,
+    "units": 72274,
+    "revenue": 16942476.43,
+    "avg_price": 234.23,
+    "pct_of_revenue": 4.14
+  },
+  {
+    "category_id": "cat_003",
+    "category_name": "Bush Inc",
+    "orders": 32338,
+    "units": 66404,
+    "revenue": 16852413.56,
+    "avg_price": 253.77,
+    "pct_of_revenue": 4.12
+  },
+  {
+    "category_id": "cat_006",
+    "category_name": "Ellis, Baker and Wright",
+    "orders": 31604,
+    "units": 64378,
+    "revenue": 16708321.6,
+    "avg_price": 259.36,
+    "pct_of_revenue": 4.08
+  },
+  {
+    "category_id": "cat_024",
+    "category_name": "Patterson, Smith and Jones",
+    "orders": 31018,
+    "units": 63789,
+    "revenue": 16571531.44,
+    "avg_price": 259.71,
+    "pct_of_revenue": 4.05
+  },
+  {
+    "category_id": "cat_020",
+    "category_name": "Brewer, Bryant and Hickman",
+    "orders": 34377,
+    "units": 70728,
+    "revenue": 16511974.16,
+    "avg_price": 233.1,
+    "pct_of_revenue": 4.03
+  },
+  {
+    "category_id": "cat_015",
+    "category_name": "Owens-Daniel",
+    "orders": 31085,
+    "units": 63623,
+    "revenue": 16109574.97,
+    "avg_price": 253.32,
+    "pct_of_revenue": 3.93
+  },
+  {
+    "category_id": "cat_022",
+    "category_name": "Preston Ltd",
+    "orders": 31517,
+    "units": 64549,
+    "revenue": 15981560.89,
+    "avg_price": 247.97,
+    "pct_of_revenue": 3.9
+  },
+  {
+    "category_id": "cat_007",
+    "category_name": "Moore, Becker and Carlson",
+    "orders": 30153,
+    "units": 61594,
+    "revenue": 15479675.2,
+    "avg_price": 250.93,
+    "pct_of_revenue": 3.78
+  },
+  {
+    "category_id": "cat_001",
+    "category_name": "Baldwin Ltd",
+    "orders": 31758,
+    "units": 65083,
+    "revenue": 15356684.91,
+    "avg_price": 236.54,
+    "pct_of_revenue": 3.75
+  },
+  {
+    "category_id": "cat_009",
+    "category_name": "Skinner-Romero",
+    "orders": 30771,
+    "units": 62890,
+    "revenue": 15326160.64,
+    "avg_price": 243.79,
+    "pct_of_revenue": 3.74
+  },
+  {
+    "category_id": "cat_008",
+    "category_name": "Rodriguez-Graham",
+    "orders": 31115,
+    "units": 63602,
+    "revenue": 15196879.95,
+    "avg_price": 239.02,
+    "pct_of_revenue": 3.71
+  },
+  {
+    "category_id": "cat_002",
+    "category_name": "James LLC",
+    "orders": 30319,
+    "units": 61709,
+    "revenue": 14899129.23,
+    "avg_price": 241.28,
+    "pct_of_revenue": 3.64
+  },
+  {
+    "category_id": "cat_023",
+    "category_name": "King-Odonnell",
+    "orders": 30183,
+    "units": 61918,
+    "revenue": 14774005.32,
+    "avg_price": 238.53,
+    "pct_of_revenue": 3.61
+  },
+  {
+    "category_id": "cat_013",
+    "category_name": "Smith Ltd",
+    "orders": 28590,
+    "units": 58389,
+    "revenue": 14773459.13,
+    "avg_price": 252.69,
+    "pct_of_revenue": 3.61
+  },
+  {
+    "category_id": "cat_016",
+    "category_name": "Wright-Leblanc",
+    "orders": 26777,
+    "units": 54557,
+    "revenue": 14516853.35,
+    "avg_price": 265.96,
+    "pct_of_revenue": 3.54
+  },
+  {
+    "category_id": "cat_000",
+    "category_name": "Rodriguez, Figueroa and Sanchez",
+    "orders": 26824,
+    "units": 54764,
+    "revenue": 14100595.97,
+    "avg_price": 257.88,
+    "pct_of_revenue": 3.44
+  }
+]

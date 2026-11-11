@@ -1,0 +1,52 @@
+[
+  {
+    "customers": 214,
+    "state": "NY",
+    "revenue": 10044061.39
+  },
+  {
+    "customers": 201,
+    "state": "NH",
+    "revenue": 9373041.81
+  },
+  {
+    "customers": 202,
+    "state": "IL",
+    "revenue": 9311454.82
+  },
+  {
+    "customers": 197,
+    "state": "OR",
+    "revenue": 9161016.1
+  },
+  {
+    "customers": 190,
+    "state": "TN",
+    "revenue": 9054642.58
+  },
+  {
+    "customers": 187,
+    "state": "GU",
+    "revenue": 8955967.67
+  },
+  {
+    "customers": 187,
+    "state": "SD",
+    "revenue": 8725162.99
+  },
+  {
+    "customers": 183,
+    "state": "SC",
+    "revenue": 8588457.82
+  },
+  {
+    "customers": 180,
+    "state": "MT",
+    "revenue": 8566532.64
+  },
+  {
+    "customers": 185,
+    "state": "CA",
+    "revenue": 8545114.04
+  }
+]

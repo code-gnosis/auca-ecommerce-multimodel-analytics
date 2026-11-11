@@ -1,0 +1,50 @@
+[
+  {
+    "customers": 1788,
+    "orders_from": 27,
+    "orders_to": 44,
+    "total_revenue": 66492103.79,
+    "avg_lifetime_value": 37187.98,
+    "avg_order_value": 929.77
+  },
+  {
+    "customers": 1910,
+    "orders_from": 44,
+    "orders_to": 48,
+    "total_revenue": 81506101.23,
+    "avg_lifetime_value": 42673.35,
+    "avg_order_value": 935.19
+  },
+  {
+    "customers": 1676,
+    "orders_from": 48,
+    "orders_to": 51,
+    "total_revenue": 76883657.01,
+    "avg_lifetime_value": 45873.3,
+    "avg_order_value": 936.07
+  },
+  {
+    "customers": 2052,
+    "orders_from": 51,
+    "orders_to": 55,
+    "total_revenue": 100232530.64,
+    "avg_lifetime_value": 48846.26,
+    "avg_order_value": 931.07
+  },
+  {
+    "customers": 1689,
+    "orders_from": 55,
+    "orders_to": 60,
+    "total_revenue": 89521487.25,
+    "avg_lifetime_value": 53002.66,
+    "avg_order_value": 934.93
+  },
+  {
+    "customers": 885,
+    "orders_from": 60,
+    "orders_to": 80,
+    "total_revenue": 51940283.3,
+    "avg_lifetime_value": 58689.59,
+    "avg_order_value": 930.85
+  }
+]

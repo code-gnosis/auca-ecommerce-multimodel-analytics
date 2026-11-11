@@ -1,0 +1,905 @@
+{
+  "q1_recent_sessions": [
+    {
+      "row_key": "user_000000#8206978418306",
+      "session_id": "sess_3170f0dee3",
+      "start_time": "2026-10-26T15:33:01.693603",
+      "duration_s": "2795",
+      "device": "desktop",
+      "state": "FM",
+      "referrer": "email",
+      "conversion": "abandoned",
+      "page_views": "9"
+    },
+    {
+      "row_key": "user_000000#8208136900505",
+      "session_id": "sess_6ae68156a0",
+      "start_time": "2026-10-13T05:44:59.494820",
+      "duration_s": "100",
+      "device": "desktop",
+      "state": "FM",
+      "referrer": "direct",
+      "conversion": "browsed",
+      "page_views": "13"
+    },
+    {
+      "row_key": "user_000000#8208454649771",
+      "session_id": "sess_00247ad25b",
+      "start_time": "2026-10-09T13:29:10.228948",
+      "duration_s": "2216",
+      "device": "mobile",
+      "state": "FM",
+      "referrer": "search_engine",
+      "conversion": "browsed",
+      "page_views": "5"
+    },
+    {
+      "row_key": "user_000000#8209593963431",
+      "session_id": "sess_4031338de8",
+      "start_time": "2026-09-26T09:00:36.568424",
+      "duration_s": "1287",
+      "device": "tablet",
+      "state": "FM",
+      "referrer": "social",
+      "conversion": "abandoned",
+      "page_views": "10"
+    },
+    {
+      "row_key": "user_000000#8210124898985",
+      "session_id": "sess_0b85c16e06",
+      "start_time": "2026-09-20T05:31:41.014111",
+      "duration_s": "2000",
+      "device": "mobile",
+      "state": "FM",
+      "referrer": "social",
+      "conversion": "abandoned",
+      "page_views": "12"
+    },
+    {
+      "row_key": "user_000000#8210201756004",
+      "session_id": "sess_0a632fbf88",
+      "start_time": "2026-09-19T08:10:43.995919",
+      "duration_s": "1423",
+      "device": "desktop",
+      "state": "FM",
+      "referrer": "search_engine",
+      "conversion": "abandoned",
+      "page_views": "15"
+    },
+    {
+      "row_key": "user_000000#8211540225103",
+      "session_id": "sess_fb4d90f314",
+      "start_time": "2026-09-03T20:22:54.896628",
+      "duration_s": "3472",
+      "device": "desktop",
+      "state": "FM",
+      "referrer": "social",
+      "conversion": "abandoned",
+      "page_views": "4"
+    },
+    {
+      "row_key": "user_000000#8211698039840",
+      "session_id": "sess_65dff018eb",
+      "start_time": "2026-09-02T00:32:40.159444",
+      "duration_s": "3410",
+      "device": "mobile",
+      "state": "FM",
+      "referrer": "affiliate",
+      "conversion": "browsed",
+      "page_views": "11"
+    },
+    {
+      "row_key": "user_000000#8212323153362",
+      "session_id": "sess_0cfe3dc557",
+      "start_time": "2026-08-25T18:54:06.637523",
+      "duration_s": "1816",
+      "device": "tablet",
+      "state": "FM",
+      "referrer": "social",
+      "conversion": "abandoned",
+      "page_views": "14"
+    }
+  ],
+  "q2_summary_only": [
+    {
+      "row_key": "user_000000#8206978418306",
+      "s:browser": "Chrome",
+      "s:city": "Williamsville",
+      "s:conversion": "abandoned",
+      "s:device": "desktop",
+      "s:duration": "2795",
+      "s:end_time": "2026-10-26T16:19:36.693603",
+      "s:os": "Android",
+      "s:referrer": "email",
+      "s:session_id": "sess_3170f0dee3",
+      "s:start_time": "2026-10-26T15:33:01.693603",
+      "s:state": "FM"
+    },
+    {
+      "row_key": "user_000000#8208136900505",
+      "s:browser": "Firefox",
+      "s:city": "Williamsville",
+      "s:conversion": "browsed",
+      "s:device": "desktop",
+      "s:duration": "100",
+      "s:end_time": "2026-10-13T05:46:39.494820",
+      "s:os": "Windows",
+      "s:referrer": "direct",
+      "s:session_id": "sess_6ae68156a0",
+      "s:start_time": "2026-10-13T05:44:59.494820",
+      "s:state": "FM"
+    },
+    {
+      "row_key": "user_000000#8208454649771",
+      "s:browser": "Firefox",
+      "s:city": "Williamsville",
+      "s:conversion": "browsed",
+      "s:device": "mobile",
+      "s:duration": "2216",
+      "s:end_time": "2026-10-09T14:06:06.228948",
+      "s:os": "macOS",
+      "s:referrer": "search_engine",
+      "s:session_id": "sess_00247ad25b",
+      "s:start_time": "2026-10-09T13:29:10.228948",
+      "s:state": "FM"
+    },
+    {
+      "row_key": "user_000000#8209593963431",
+      "s:browser": "Firefox",
+      "s:city": "Williamsville",
+      "s:conversion": "abandoned",
+      "s:device": "tablet",
+      "s:duration": "1287",
+      "s:end_time": "2026-09-26T09:22:03.568424",
+      "s:os": "Windows",
+      "s:referrer": "social",
+      "s:session_id": "sess_4031338de8",
+      "s:start_time": "2026-09-26T09:00:36.568424",
+      "s:state": "FM"
+    },
+    {
+      "row_key": "user_000000#8210124898985",
+      "s:browser": "Safari",
+      "s:city": "Williamsville",
+      "s:conversion": "abandoned",
+      "s:device": "mobile",
+      "s:duration": "2000",
+      "s:end_time": "2026-09-20T06:05:01.014111",
+      "s:os": "macOS",
+      "s:referrer": "social",
+      "s:session_id": "sess_0b85c16e06",
+      "s:start_time": "2026-09-20T05:31:41.014111",
+      "s:state": "FM"
+    }
+  ],
+  "q3_product_timeseries": {
+    "product_id": "prod_00000",
+    "series": [
+      {
+        "date": "2026-08-13",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 4.0,
+        "revenue": 1485.2
+      },
+      {
+        "date": "2026-08-14",
+        "views": 1.0,
+        "cart_adds": 1.0,
+        "purchases": 3.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-08-15",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 1.0,
+        "units": 1.0,
+        "revenue": 371.3
+      },
+      {
+        "date": "2026-08-16",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-08-17",
+        "views": 3.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-08-18",
+        "views": 2.0,
+        "cart_adds": 1.0,
+        "purchases": 5.0,
+        "units": 11.0,
+        "revenue": 4084.3
+      },
+      {
+        "date": "2026-08-19",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 5.0,
+        "units": 10.0,
+        "revenue": 3713.0
+      },
+      {
+        "date": "2026-08-20",
+        "views": 2.0,
+        "cart_adds": 1.0,
+        "purchases": 3.0,
+        "units": 6.0,
+        "revenue": 2227.8
+      },
+      {
+        "date": "2026-08-21",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 8.0,
+        "revenue": 2970.4
+      },
+      {
+        "date": "2026-08-22",
+        "views": 1.0,
+        "cart_adds": 1.0,
+        "purchases": 5.0,
+        "units": 14.0,
+        "revenue": 5198.2
+      },
+      {
+        "date": "2026-08-23",
+        "views": 3.0,
+        "cart_adds": 1.0,
+        "purchases": 2.0,
+        "units": 4.0,
+        "revenue": 1485.2
+      },
+      {
+        "date": "2026-08-24",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 7.0,
+        "units": 17.0,
+        "revenue": 6312.1
+      },
+      {
+        "date": "2026-08-26",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 4.0,
+        "units": 9.0,
+        "revenue": 3341.7
+      },
+      {
+        "date": "2026-08-27",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 5.0,
+        "units": 10.0,
+        "revenue": 3713.0
+      },
+      {
+        "date": "2026-08-28",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 4.0,
+        "units": 9.0,
+        "revenue": 3341.7
+      },
+      {
+        "date": "2026-08-29",
+        "views": 1.0,
+        "cart_adds": 1.0,
+        "purchases": 4.0,
+        "units": 6.0,
+        "revenue": 2227.8
+      },
+      {
+        "date": "2026-08-30",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 4.0,
+        "units": 6.0,
+        "revenue": 2227.8
+      },
+      {
+        "date": "2026-08-31",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 6.0,
+        "revenue": 2227.8
+      },
+      {
+        "date": "2026-09-01",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 5.0,
+        "units": 11.0,
+        "revenue": 4084.3
+      },
+      {
+        "date": "2026-09-02",
+        "views": 2.0,
+        "cart_adds": 1.0,
+        "purchases": 1.0,
+        "units": 3.0,
+        "revenue": 1113.9
+      },
+      {
+        "date": "2026-09-03",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 6.0,
+        "units": 11.0,
+        "revenue": 4084.3
+      },
+      {
+        "date": "2026-09-04",
+        "views": 2.0,
+        "cart_adds": 1.0,
+        "purchases": 5.0,
+        "units": 11.0,
+        "revenue": 4084.3
+      },
+      {
+        "date": "2026-09-05",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 4.0,
+        "units": 8.0,
+        "revenue": 2970.4
+      },
+      {
+        "date": "2026-09-06",
+        "views": 1.0,
+        "cart_adds": 1.0,
+        "purchases": 3.0,
+        "units": 8.0,
+        "revenue": 2970.4
+      },
+      {
+        "date": "2026-09-07",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 4.0,
+        "units": 11.0,
+        "revenue": 4084.3
+      },
+      {
+        "date": "2026-09-08",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 4.0,
+        "revenue": 1485.2
+      },
+      {
+        "date": "2026-09-09",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 5.0,
+        "units": 8.0,
+        "revenue": 2970.4
+      },
+      {
+        "date": "2026-09-10",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 6.0,
+        "revenue": 2227.8
+      },
+      {
+        "date": "2026-09-11",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-09-12",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 4.0,
+        "units": 10.0,
+        "revenue": 3713.0
+      },
+      {
+        "date": "2026-09-13",
+        "views": 3.0,
+        "cart_adds": 2.0,
+        "purchases": 5.0,
+        "units": 8.0,
+        "revenue": 2970.4
+      },
+      {
+        "date": "2026-09-14",
+        "views": 1.0,
+        "cart_adds": 1.0,
+        "purchases": 6.0,
+        "units": 13.0,
+        "revenue": 4826.9
+      },
+      {
+        "date": "2026-09-15",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 7.0,
+        "units": 14.0,
+        "revenue": 5198.2
+      },
+      {
+        "date": "2026-09-16",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-09-17",
+        "views": 2.0,
+        "cart_adds": 1.0,
+        "purchases": 8.0,
+        "units": 18.0,
+        "revenue": 6683.4
+      },
+      {
+        "date": "2026-09-18",
+        "views": 3.0,
+        "cart_adds": 2.0,
+        "purchases": 1.0,
+        "units": 2.0,
+        "revenue": 742.6
+      },
+      {
+        "date": "2026-09-19",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 3.0,
+        "revenue": 1113.9
+      },
+      {
+        "date": "2026-09-20",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 0.0,
+        "units": 0.0,
+        "revenue": 0.0
+      },
+      {
+        "date": "2026-09-21",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 3.0,
+        "revenue": 1113.9
+      },
+      {
+        "date": "2026-09-22",
+        "views": 1.0,
+        "cart_adds": 1.0,
+        "purchases": 3.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-09-23",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 1.0,
+        "units": 3.0,
+        "revenue": 1113.9
+      },
+      {
+        "date": "2026-09-24",
+        "views": 1.0,
+        "cart_adds": 1.0,
+        "purchases": 3.0,
+        "units": 9.0,
+        "revenue": 3341.7
+      },
+      {
+        "date": "2026-09-25",
+        "views": 2.0,
+        "cart_adds": 1.0,
+        "purchases": 2.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-09-26",
+        "views": 1.0,
+        "cart_adds": 1.0,
+        "purchases": 5.0,
+        "units": 10.0,
+        "revenue": 3713.0
+      },
+      {
+        "date": "2026-09-27",
+        "views": 2.0,
+        "cart_adds": 2.0,
+        "purchases": 1.0,
+        "units": 2.0,
+        "revenue": 742.6
+      },
+      {
+        "date": "2026-09-28",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-09-29",
+        "views": 3.0,
+        "cart_adds": 1.0,
+        "purchases": 2.0,
+        "units": 4.0,
+        "revenue": 1485.2
+      },
+      {
+        "date": "2026-09-30",
+        "views": 1.0,
+        "cart_adds": 1.0,
+        "purchases": 6.0,
+        "units": 17.0,
+        "revenue": 6312.1
+      },
+      {
+        "date": "2026-10-01",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 1.0,
+        "units": 1.0,
+        "revenue": 371.3
+      },
+      {
+        "date": "2026-10-02",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 2.0,
+        "revenue": 742.6
+      },
+      {
+        "date": "2026-10-03",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 4.0,
+        "revenue": 1485.2
+      },
+      {
+        "date": "2026-10-04",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 6.0,
+        "revenue": 2227.8
+      },
+      {
+        "date": "2026-10-05",
+        "views": 3.0,
+        "cart_adds": 1.0,
+        "purchases": 2.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-10-06",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 1.0,
+        "units": 1.0,
+        "revenue": 371.3
+      },
+      {
+        "date": "2026-10-07",
+        "views": 1.0,
+        "cart_adds": 1.0,
+        "purchases": 4.0,
+        "units": 9.0,
+        "revenue": 3341.7
+      },
+      {
+        "date": "2026-10-08",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 6.0,
+        "revenue": 2227.8
+      },
+      {
+        "date": "2026-10-09",
+        "views": 4.0,
+        "cart_adds": 0.0,
+        "purchases": 4.0,
+        "units": 7.0,
+        "revenue": 2599.1
+      },
+      {
+        "date": "2026-10-10",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 4.0,
+        "units": 9.0,
+        "revenue": 3341.7
+      },
+      {
+        "date": "2026-10-11",
+        "views": 2.0,
+        "cart_adds": 1.0,
+        "purchases": 2.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-10-12",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 5.0,
+        "units": 8.0,
+        "revenue": 2970.4
+      },
+      {
+        "date": "2026-10-13",
+        "views": 1.0,
+        "cart_adds": 1.0,
+        "purchases": 0.0,
+        "units": 0.0,
+        "revenue": 0.0
+      },
+      {
+        "date": "2026-10-14",
+        "views": 2.0,
+        "cart_adds": 1.0,
+        "purchases": 4.0,
+        "units": 11.0,
+        "revenue": 4084.3
+      },
+      {
+        "date": "2026-10-16",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 6.0,
+        "units": 13.0,
+        "revenue": 4826.9
+      },
+      {
+        "date": "2026-10-17",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 5.0,
+        "units": 11.0,
+        "revenue": 4084.3
+      },
+      {
+        "date": "2026-10-18",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 4.0,
+        "revenue": 1485.2
+      },
+      {
+        "date": "2026-10-19",
+        "views": 2.0,
+        "cart_adds": 1.0,
+        "purchases": 2.0,
+        "units": 4.0,
+        "revenue": 1485.2
+      },
+      {
+        "date": "2026-10-20",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-10-21",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 4.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-10-22",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 6.0,
+        "revenue": 2227.8
+      },
+      {
+        "date": "2026-10-23",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 2.0,
+        "revenue": 742.6
+      },
+      {
+        "date": "2026-10-24",
+        "views": 2.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 4.0,
+        "revenue": 1485.2
+      },
+      {
+        "date": "2026-10-25",
+        "views": 2.0,
+        "cart_adds": 1.0,
+        "purchases": 3.0,
+        "units": 6.0,
+        "revenue": 2227.8
+      },
+      {
+        "date": "2026-10-26",
+        "views": 3.0,
+        "cart_adds": 2.0,
+        "purchases": 9.0,
+        "units": 17.0,
+        "revenue": 6312.1
+      },
+      {
+        "date": "2026-10-27",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-10-28",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 8.0,
+        "revenue": 2970.4
+      },
+      {
+        "date": "2026-10-29",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 3.0,
+        "revenue": 1113.9
+      },
+      {
+        "date": "2026-10-30",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 9.0,
+        "revenue": 3341.7
+      },
+      {
+        "date": "2026-10-31",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 1.0,
+        "units": 2.0,
+        "revenue": 742.6
+      },
+      {
+        "date": "2026-11-01",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-11-02",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 5.0,
+        "revenue": 1856.5
+      },
+      {
+        "date": "2026-11-03",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 8.0,
+        "revenue": 2970.4
+      },
+      {
+        "date": "2026-11-04",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 2.0,
+        "units": 3.0,
+        "revenue": 1113.9
+      },
+      {
+        "date": "2026-11-05",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 1.0,
+        "units": 1.0,
+        "revenue": 371.3
+      },
+      {
+        "date": "2026-11-06",
+        "views": 1.0,
+        "cart_adds": 1.0,
+        "purchases": 1.0,
+        "units": 3.0,
+        "revenue": 1113.9
+      },
+      {
+        "date": "2026-11-07",
+        "views": 2.0,
+        "cart_adds": 0.0,
+        "purchases": 1.0,
+        "units": 3.0,
+        "revenue": 1113.9
+      },
+      {
+        "date": "2026-11-08",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 3.0,
+        "units": 6.0,
+        "revenue": 2227.8
+      },
+      {
+        "date": "2026-11-09",
+        "views": 0.0,
+        "cart_adds": 0.0,
+        "purchases": 4.0,
+        "units": 9.0,
+        "revenue": 3341.7
+      },
+      {
+        "date": "2026-11-10",
+        "views": 3.0,
+        "cart_adds": 1.0,
+        "purchases": 7.0,
+        "units": 12.0,
+        "revenue": 4455.6
+      },
+      {
+        "date": "2026-11-11",
+        "views": 1.0,
+        "cart_adds": 0.0,
+        "purchases": 1.0,
+        "units": 3.0,
+        "revenue": 1113.9
+      }
+    ]
+  },
+  "q4_conversion_mix": {
+    "scanned": 20000,
+    "by_conversion": {
+      "abandoned": 8900,
+      "browsed": 7029,
+      "converted": 4071
+    },
+    "by_device": {
+      "desktop": 6655,
+      "mobile": 6633,
+      "tablet": 6712
+    }
+  }
+}

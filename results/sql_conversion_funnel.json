@@ -1,0 +1,22 @@
+[
+  {
+    "stage": "1. sessions",
+    "n": 1999996,
+    "pct_of_sessions": "100.00"
+  },
+  {
+    "stage": "2. viewed product",
+    "n": 1975260,
+    "pct_of_sessions": "98.76"
+  },
+  {
+    "stage": "3. added to cart",
+    "n": 1298407,
+    "pct_of_sessions": "64.92"
+  },
+  {
+    "stage": "4. converted",
+    "n": 405886,
+    "pct_of_sessions": "20.29"
+  }
+]

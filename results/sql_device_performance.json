@@ -1,0 +1,26 @@
+[
+  {
+    "device_type": "tablet",
+    "sessions": 668091,
+    "avg_duration_s": 1814.2,
+    "avg_page_views": 10.0,
+    "conversions": 136190,
+    "conversion_rate_pct": "20.38"
+  },
+  {
+    "device_type": "desktop",
+    "sessions": 665971,
+    "avg_duration_s": 1813.5,
+    "avg_page_views": 9.99,
+    "conversions": 134854,
+    "conversion_rate_pct": "20.25"
+  },
+  {
+    "device_type": "mobile",
+    "sessions": 665934,
+    "avg_duration_s": 1813.8,
+    "avg_page_views": 10.01,
+    "conversions": 134842,
+    "conversion_rate_pct": "20.25"
+  }
+]
